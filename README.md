@@ -4,7 +4,7 @@ In this project, we used Machine Learning method to classify cars using the acce
 
 ## Extract_Features_Augmentation.py
 
-Extract total 628 features using .wav files. Also do data augmentation to reach class balance.
+Extract total 678 features using .wav files. Also do data augmentation to reach class balance.
 
 ## Data_Statistics.py
 
